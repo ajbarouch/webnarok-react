@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68d75c8dfb4c95408f3f60ebaf38b5d7",
+    "revision": "a9236f2b04e83c3c3b4e4a022b3f204f",
     "url": "/webnarok-react/index.html"
   },
   {
