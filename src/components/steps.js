@@ -9,33 +9,33 @@ export default class Steps extends Component {
                 <div className="row no-gutters">
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in">
                     <span>01</span>
-                    <h4>Lorem Ipsum</h4>
-                    <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+                    <h4>Drop us a line</h4>
+                    <p><a href="#contact" class="scrollto">Get in touch</a> with us to chat about what you need.</p>
                 </div>
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay={100}>
                     <span>02</span>
-                    <h4>Repellat Nihil</h4>
-                    <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+                    <h4>Spelling it out</h4>
+                    <p>After determining what technologies and scope you will require, we will provide a detailed outline of our plan to make that happen.</p>
                 </div>
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay={200}>
                     <span>03</span>
-                    <h4> Ad ad velit qui</h4>
-                    <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                    <h4>Getting started</h4>
+                    <p>We kick off every project with a one-on-one discussion about timelines and expectations.</p>
                 </div>
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay={300}>
                     <span>04</span>
-                    <h4>Repellendus molestiae</h4>
-                    <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+                    <h4>Nose to the grindstone</h4>
+                    <p>Here's the fun part. We finally get to code.</p>
                 </div>
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay={400}>
                     <span>05</span>
-                    <h4>Sapiente Magnam</h4>
-                    <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+                    <h4>Checking in</h4>
+                    <p>Constant internal QA and regular updates are integral to us. When we're nearly complete, we'll chat about how best to launch your project.</p>
                 </div>
                 <div className="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay={500}>
                     <span>06</span>
-                    <h4>Facilis Impedit</h4>
-                    <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
+                    <h4>Pop the Champagne!</h4>
+                    <p>Everything is completed to your satisfation and given the rubber stamp of approval. We offer a one-year bug-free guarantee on all of our code as well as ongoing services such as maintenance and monitoring.</p>
                 </div>
                 </div>
             </div>

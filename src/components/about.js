@@ -11,24 +11,24 @@ export default class About extends Component {
               <img src="assets/img/about-img.jpg" className="img-fluid" alt="" />
             </div>
             <div className="col-xl-6 col-lg-5 pt-5 pt-lg-0">
-              <h3 data-aos="fade-up">Voluptatem dignissimos provident</h3>
+              <h3 data-aos="fade-up">Est 2013</h3>
               <p data-aos="fade-up">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                For over 7 years, we've been providing much needed web answers to various web questions.
               </p>
               <div className="icon-box" data-aos="fade-up">
                 <i className="bx bx-receipt" />
-                <h4>Corporis voluptates sit</h4>
-                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                <h4>What you want, we've got</h4>
+                <p>We tackle various technologies such as Wordpress, Drupal, ReactJS, Shopify and many many more.</p>
               </div>
               <div className="icon-box" data-aos="fade-up" data-aos-delay={100}>
                 <i className="bx bx-cube-alt" />
-                <h4>Ullamco laboris nisi</h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <h4>Always thinking ahead</h4>
+                <p>When it comes to code, we look to the long-term. Everything we do is search engine optimized and accessible so that your content can reach everyone.</p>
               </div>
               <div className="icon-box" data-aos="fade-up" data-aos-delay={200}>
                 <i className="bx bx-cube-alt" />
-                <h4>Ullamco laboris nisi</h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <h4>We're with you</h4>
+                <p>We believe that with great products come great responsibility. We're here to help you determine what web solution will serve you best.</p>
               </div>
             </div>
           </div>

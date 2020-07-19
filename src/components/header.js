@@ -12,6 +12,7 @@ import React, { Component } from 'react'
                     <ul>
                     <li className="active"><a href="index.html">Home</a></li>
                     <li><a href="#about">About Us</a></li>
+                    <li><a href="#steps">Steps</a></li>
                     <li><a href="#services">Services</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <li><a href="#contact">Contact Us</a></li>
