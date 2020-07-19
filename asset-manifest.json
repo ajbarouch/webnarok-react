@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webnarok-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webnarok-react/static/js/main.f0b1ab1d.chunk.js",
-    "main.js.map": "/webnarok-react/static/js/main.f0b1ab1d.chunk.js.map",
+    "main.js": "/webnarok-react/static/js/main.bbf5a564.chunk.js",
+    "main.js.map": "/webnarok-react/static/js/main.bbf5a564.chunk.js.map",
     "runtime-main.js": "/webnarok-react/static/js/runtime-main.ce1c35db.js",
     "runtime-main.js.map": "/webnarok-react/static/js/runtime-main.ce1c35db.js.map",
     "static/js/2.0da72a9b.chunk.js": "/webnarok-react/static/js/2.0da72a9b.chunk.js",
     "static/js/2.0da72a9b.chunk.js.map": "/webnarok-react/static/js/2.0da72a9b.chunk.js.map",
     "index.html": "/webnarok-react/index.html",
-    "precache-manifest.9cf658be75965a1641610c7f06e7216d.js": "/webnarok-react/precache-manifest.9cf658be75965a1641610c7f06e7216d.js",
+    "precache-manifest.c7dede85f171336221f5716588ee4bb5.js": "/webnarok-react/precache-manifest.c7dede85f171336221f5716588ee4bb5.js",
     "service-worker.js": "/webnarok-react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/webnarok-react/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.0da72a9b.chunk.js.LICENSE.txt": "/webnarok-react/static/js/2.0da72a9b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce1c35db.js",
     "static/js/2.0da72a9b.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f0b1ab1d.chunk.js"
+    "static/js/main.bbf5a564.chunk.js"
   ]
 }
