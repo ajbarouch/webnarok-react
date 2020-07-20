@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/webnarok-react/precache-manifest.7b75feb05a792e4c065df61f8ae2de88.js"
+  "/webnarok-react/precache-manifest.1678af9a9a41ca5e40ed823ffc36a6e4.js"
 );
 
 self.addEventListener('message', (event) => {

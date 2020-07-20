@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9236f2b04e83c3c3b4e4a022b3f204f",
+    "revision": "5c1b7f2b4ae45e84551d7f44c10e41bf",
     "url": "/webnarok-react/index.html"
   },
   {
-    "revision": "681697ef8815434eb243",
+    "revision": "9f19aedbae5dade92050",
     "url": "/webnarok-react/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webnarok-react/static/js/2.0da72a9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "681697ef8815434eb243",
-    "url": "/webnarok-react/static/js/main.1225a3d8.chunk.js"
+    "revision": "9f19aedbae5dade92050",
+    "url": "/webnarok-react/static/js/main.73a5b168.chunk.js"
   },
   {
     "revision": "3121e3e2c41404c185d8",
