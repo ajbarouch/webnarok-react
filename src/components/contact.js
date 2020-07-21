@@ -12,7 +12,7 @@ export default class Contact extends Component {
                 </div>
                 <div className="row mt-4 justify-content-center" data-aos="fade-up">
                 <div className="col-lg-10">
-                    <form action="forms/contact.php" method="post" role="form" className="php-email-form">
+                    <form action="forms/contact.php" method="post" className="php-email-form">
                     <div className="form-row">
                         <div className="col-md-6 form-group">
                         <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
