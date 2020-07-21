@@ -356,6 +356,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .container {
   z-index: 2;
+  background-color: rgba(0,0,0,0.9);
+  padding: 20px;
 }
 
 #hero h1 {
@@ -521,7 +523,7 @@ section {
 .about .icon-box i {
   font-size: 48px;
   float: left;
-  color: #84AFE6;
+  color: #A8CFF0;
 }
 
 .about .icon-box h4 {
@@ -696,7 +698,7 @@ section {
 }
 
 .services .icon-box-blue .icon i {
-  color: #84AFE6;
+  color: #A8CFF0;
 }
 
 /*--------------------------------------------------------------
