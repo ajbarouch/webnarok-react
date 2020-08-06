@@ -35,7 +35,7 @@ export default class Contact extends Component {
                         <div className="validate" />
                     </div>
                     <div className="form-group">
-                        <textarea className="form-control" name="message" rows={5} data-rule="required" data-msg="Please write something for us" placeholder="Message" defaultValue={""} />
+                        <textarea className="form-control" name="message" rows={5} data-msg="Please write something for us" placeholder="Message" defaultValue={""} />
                         <div className="validate" />
                     </div>
                     <div className="mb-3">
